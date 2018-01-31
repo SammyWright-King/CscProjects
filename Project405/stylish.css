@@ -1,0 +1,105 @@
+body{
+	background-image:url(images/sport.png); 
+	background-repeat:no-repeat;
+	background-size : cover;
+	position : absolute;
+	height : 100%;
+	width : 100%;
+}
+	
+header{
+	background-color : #006699; 
+	text-align : center;
+	color : #330033;
+	width : 100%;
+	height : 200px;
+	border-style : none;
+	border-radius : 2px;
+	margin: 0px;
+	
+}
+
+h1.clap{
+	color : black;
+	position : relative;
+	text-align : center;
+	text-shadow : 2px 3px;
+	font-family : serif;
+	letter-spacing : 1px;
+	font-size : 60px;
+	padding : 10px;
+	margin-bottom : 0px;
+	padding-bottom : 5px;
+}
+
+a {
+	text-decoration : none;
+}
+div.inline{
+	display : inline;
+}
+
+ul.link{
+	padding-top : 0px;
+	padding : 10px;
+	text-align : center;
+	color : black;
+	word-spacing : 20px;
+	list-style : none;
+	
+}
+
+a,li{
+	color : black;
+	border : none;
+	border-color : black;
+	display : inline;
+	font-size : 20px;
+	border : none;
+	border-radius : 5px;
+	
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+	color : pink;
+}
+.img{
+	background-image : url(images/sport.png);
+	background-repeat : no-repeat;
+	background-position : absolute;
+	background-size : 100% 100%;
+	padding : 0px;
+	height : 400px;
+	margin-bottom : 2px;
+}
+.center{
+	text-align : center;
+	text-transform : mixed;
+	margin-top : 10px;
+	font-size : 30px;
+	font-family :sans-serif;
+	color : white;
+	padding-top : 10px;
+	word-spacing : 2px;
+}
+
+footer{
+	background-color : #000000;
+	text-align : center;
+	background-size : cover;
+	border-radius : 5px;
+	height : 40px;
+	width : 100%;
+	color : white;
+	padding : 20px;
+}

@@ -1,0 +1,100 @@
+head{
+	background-color : GoldenRod; 
+	text-align : left;
+	color : #330033;
+	width : 100%;
+	height : 150px;
+	border-style : hidden;
+	border-radius : 5px;
+	margin-bottom : 0px;
+}
+
+.body{
+	background-image : url(images/career.png);
+	background-repeat : no-repeat;
+	background-position : relative;
+	background-size : 100% 100%;
+	height : 600px;
+}
+
+h1.slap{
+	position : relative;
+	text-align : left;
+	text-shadow : 2px 3px;
+	font-family : serif;
+	letter-spacing : 1px;
+	size : 60px;
+	padding-top : 10px;
+}
+
+ul.link{
+	padding-top : 0px;
+	padding : 10px;
+	text-align :right;
+	color : black;
+	word-spacing : 20px;
+	list-style : none;
+	
+}
+
+a,li{
+	border : none;
+	border-color : black;
+	display : inline;
+	font-size : 30px;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+	color : pink;
+}
+
+.bording{
+	border : 1px SOLID black; 
+	border-radius : 50%;
+	background-image : url(images/home.jpg);
+	background-size : cover;
+	position : relative;
+	float : left;
+	padding : 15%;
+	margin-top : 20px;
+	margin-left : 15px;
+}
+
+table{
+	padding : 10%;
+	color : black;
+	border : 0px;
+	border-style : none;
+	
+}
+th{
+	display : inline-block;
+	background : #6699cc;
+	color : black;
+	font-size : 20px;
+	padding : 10px 15px;
+	border : none;
+	border-style : transparent;
+	
+	
+}
+
+footer{
+	background-color : #000000;
+	text-align : center;
+	background-size : cover;
+	border-radius : 5px;
+	height : 40px;
+	width : 100%;
+	color : white;
+	padding : 20px;

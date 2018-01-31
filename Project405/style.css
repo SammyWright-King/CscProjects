@@ -1,0 +1,83 @@
+h1, h2, h3 {
+color: #36C;
+font-weight: normal;
+letter-spacing: 1px;
+padding : 50px;
+text-transform: mix;
+text-align : center;
+text-decoration : underline;
+}
+
+h1.do{
+	padding-bottom : 10px;
+}
+
+.headd{
+	background-color :#330033;
+	height : 150px;
+	text-align : center;
+	color : white;
+	font-size : 35px;
+	
+}
+
+.bodied{
+	background-image : url(images/homie.jpg);
+	background-repeat : no-repeat;
+	background-attachment : scroll;
+	background-size : 100% 100%;
+	font-family : bedrock;
+	font-size : 8;
+	height : 500px;
+	
+}
+
+ul{
+	color : #663333;
+	font-size : 30px;
+	list-style: none;
+	text-align : center;
+}
+
+.quee{
+	direction : right;
+	width : 50%;
+}
+
+li{
+	display : inline;
+	
+	border : 20px;
+	padding : 12px;
+}
+
+p.cap{
+	text-indent : 10px;
+    size : 8%;
+	font-family : wildcard;
+	text-transform : lowercase;
+}
+ li:visited{
+	color : yellow;
+	border : solid;
+	background-color : #330033;
+ }
+ li:hover{
+	background-color : #990066;
+	border : solid;
+	color : blue;
+ }
+ 
+ .smart{
+	border : 2px;
+	rad : 50;
+	color : blue;
+ }
+ 
+ table{
+	 border : 1px solid black;
+	 border-collapse : collapse;
+ }
+img{
+	image : url(images/);
+}

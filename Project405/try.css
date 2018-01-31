@@ -1,0 +1,79 @@
+.top{
+	background-image : url(images/light.jpg);
+	background-repeat : no-repeat;
+	position : relative;
+	background-size : cover;
+	height : 400px;
+	width : 100%;
+	margin : 0px;
+	border : none;
+	border-radius : 4px;
+}
+
+h1,h2{
+	color : white;
+	weight : 2px;
+	text-align : center;
+	font-size : 24px;
+	font-weight : 2px;
+	letter-spacing : 1px; 
+	word-spacing : 2px;
+	font-family : bauhaus 93;
+	padding : 20px;
+}
+
+ul.link{
+	padding-top : 0px;
+	padding : 8px;
+	text-align :right;
+	color : black;
+	word-spacing : 20px;
+	list-style : none;
+	
+}
+
+.button{
+	position : relative;
+	padding : 10px;
+	background-color : orange;
+	background-color:opaque;
+	margin-left : 40%;
+}
+
+a,li{
+	border : none;
+	border-radius : 5px;
+	display : inline;
+	background-color : transparent;
+	font-size : 30px;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+	color : pink;
+}
+
+img{
+	height : 100px;
+	width : 120px;
+	size : cover;
+	position : relative;
+	border-radius : 4px;
+	border-color : black;
+	border: 2px;
+}
+
+.div{
+	align : center;
+	padding : 5%;
+	word-spacing : 40px;
+}
